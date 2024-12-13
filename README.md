@@ -1,3 +1,3 @@
 # pulsegate
 
-future work: similar soft for eclipse hono
+future works: better soft similar to eclipse hono
